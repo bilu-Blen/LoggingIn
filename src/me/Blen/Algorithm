@@ -1,0 +1,19 @@
+Input- 
+User ( id, username, password, role)
+Role ( id, name, user)
+
+Process - 
+1. Give an option to the user either to sign up or login 
+2. if the user choose signUp, create a user with role that already exists
+3. store the new user and give it the role
+4. if login the user should put the user name and password
+5.validating the log in 
+6. Add a new role
+7. add a role to a user
+8. add a user to a role
+9. validate a user so that it won't be added to a role twice
+10.  
+
+
+ 
+
