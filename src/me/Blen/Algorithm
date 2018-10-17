@@ -12,7 +12,8 @@ Process -
 7. add a role to a user
 8. add a user to a role
 9. validate a user so that it won't be added to a role twice
-10.  
+10. validate a same role cannot be added to a same user twice
+11. login that will use a password a user name 
 
 
  
